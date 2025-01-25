@@ -3,6 +3,8 @@ Automatic Pet Food and Water Dispenser
 
 ## Overview
 This Pet Feeder project combines circuit design, embedded software, sensors and motors all incorporated into a completed usable product.
+
+
 ![PetFeeder](20250124_182050.jpg)
 
 ### Motors and Outputs
@@ -13,6 +15,8 @@ The pet feeder runs on an 8v battery, but is designed for permanent use with a w
 ### Sensors and Inputs
 The feeder takes in data from a capacitive water level sensor, and a digital FIR motion detector.
 There are three copper strips placed underneath the water bowl, wired in a capacitor circuit. This circuit allows for accurate water level measurement without interfering with the pet's fresh water.
+
+
 ![Capacitor](20250124_182127.jpg)
 
 
